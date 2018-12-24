@@ -50,3 +50,15 @@ body {
   margin-right: auto;
   width: 50%;
 }
+
+.icon-group {
+    margin-top: 2vh;
+}
+
+.icon-group .sicon {
+    margin-right: 10px;
+    width: 60px;
+    background-color: white;
+    margin-left: 0;
+    margin-right: 0; 
+}
